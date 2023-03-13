@@ -1,3 +1,4 @@
+//1 lecture
 //1st task
 console.log('Kucher');
 
@@ -50,3 +51,5 @@ let email = prompt('Введіть ваш email', '');
 let password = prompt('Введіть ваш password', '');
 
 console.log('Dear User, your login',login, ',email is',email, ', your password is',password);
+
+//2 lecture
